@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10531" started-at="2020-01-10T11:09:38Z" finished-at="2020-01-10T11:09:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10531" started-at="2020-01-10T11:09:38Z" finished-at="2020-01-10T11:09:49Z">
+      <class name="RESTAPI_package.AppTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:RESTAPI_package.AppTest@1bce4f0a]" name="run" duration-ms="10496" started-at="2020-01-10T16:39:38Z" finished-at="2020-01-10T16:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- RESTAPI_package.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
